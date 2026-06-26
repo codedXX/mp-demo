@@ -1,0 +1,31 @@
+# 编译产物
+*.class
+target/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IDE - VS Code
+.vscode/
+
+# 日志
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
